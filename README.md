@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LeventKurtRpa
+- 👀 I’m interested in UiPath , C# , Excel Macros.
+- 🌱 I’m currently learning C# and Web development.
+- 💞️ I’m looking to collaborate on Processes which can be built in UiPath Studio.
+- 📫 E-mail : leventkurt.trrs@gmail.com 
+-Linkedin : https://www.linkedin.com/in/levent-kurt-4b27bb15b/
